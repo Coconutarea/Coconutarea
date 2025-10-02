@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Coconutarea  
 
-<!--
-**Coconutarea/Coconutarea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I am a Master's student in **Business Analytics at NTU Singapore**.  
+📊 Passionate about **Data Analysis, Visualization, Streamlit, and Machine Learning**.  
+💻 Familiar with **Python, SQL, and R**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+## 🚀 About Me
+- 🔍 Exploring ways to turn data into actionable insights  
+- 📈 Building interactive dashboards and web apps with Streamlit  
+- 🤖 Interested in predictive modeling and applied machine learning  
+
+---
+
+## 🛠 Skills
+- **Languages & Tools:** Python, R, SQL, Tableau, Pandas, NumPy, Matplotlib, Seaborn, Streamlit  
+- **Special Interests:** Data visualization, EDA, ML models, Interactive apps  
+
+---
+
+## 📫 How to reach me 
+- 💼 LinkedIn: https://www.linkedin.com/in/jing-mei-he-nbs/
+
+---
+
+⭐️ *Always learning, always building.*  
+
 - ⚡ Fun fact: ...
 -->

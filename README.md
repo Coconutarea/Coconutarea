@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Coconutarea  
+# 👋 Hi, I'm Mei  
 
 🎓 I am a Master's student in **Business Analytics at NTU Singapore**.  
 📊 Passionate about **Data Analysis, Visualization, Streamlit, and Machine Learning**.  
